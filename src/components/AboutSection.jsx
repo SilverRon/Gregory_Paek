@@ -106,8 +106,8 @@ const AboutSection = () => {
           <br></br>
           <ResumeButton>
             <a
-              href={`${process.env.PUBLIC_URL}/assets/Gregory's_resume.pdf`}
-              download="Gregory's_resume.pdf"
+              href={`${process.env.PUBLIC_URL}/assets/CV_Gregory_Paek.pdf`}
+              download="CV_Gregory_Paek.pdf"
             >
               <button>Download CV</button>
             </a>
