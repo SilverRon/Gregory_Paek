@@ -81,7 +81,7 @@ function HeroSection() {
             href="https://github.com/SilverRon"
           >
             <img
-              style={{ height: "1.2rem" }}
+              style={{ height: "1.5rem" }}
               src={`${process.env.PUBLIC_URL}/assets/github-mark-white.svg`}
               alt="github link"
             />
@@ -94,7 +94,7 @@ function HeroSection() {
             href="https://orcid.org/0000-0002-6639-6533"
           >
             <img
-              style={{ height: "1.2rem" }}
+              style={{ height: "1.5rem" }}
               src={`${process.env.PUBLIC_URL}/assets/orcid.logo.icon.svg`}
               alt="orcid link"
             />
