@@ -80,10 +80,10 @@ const AboutSection = () => {
       <hr></hr>
       <ProfileContainer>
         <ProfileText>
-          <h1>Hi, I'm Gregory S.H. Paek</h1>
+          <h1>{"Hi, I'm Gregory S.H. Paek"}</h1>
           <br></br>
           <p style={{ fontSize: " 1.2rem" }}>
-            Hello! I’m<Pi>Gregory Paek</Pi>, an astronomer captivated by the
+            Hello! I’m<Pi> Gregory Paek</Pi>, an astronomer captivated by the
             transient universe and its fleeting phenomena. My work bridges
             advanced observational techniques and computational innovation to
             uncover the secrets of transient, with a special focus on kilonovae,
