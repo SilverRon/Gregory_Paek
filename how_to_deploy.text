@@ -1,0 +1,32 @@
+
+프로젝트 빌드
+npm run build
+
+Git 초기화
+git init
+  // "homepage": "https://<your-username>.github.io/<your-repo-name>",
+리포지토리 추가: 원격 리포지토리를 추가
+//git remote add origin https://github.com/<your-username>/<got-repo-name>.git
+
+파일 추가 및 커밋: 변경된 파일을 추가하고 커밋
+git add .
+git commit -m "Deploy React app to GitHub Pages"
+
+gh-pages 브랜치로 배포: gh-pages 패키지를 설치하고 배포
+npm install gh-pages --save-dev
+
+package.json에 스크립트추가
+
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
+
+GitHub 리포지토리 -> Settings -> Pages -> Source -> gh-pages브랜치 -> 저장
+
+
+
+설정 이후엔 
+npm run deploy 
+
+명령어로 배포 가능!
