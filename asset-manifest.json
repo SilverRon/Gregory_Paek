@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Gregory_p/static/css/main.001a4629.css",
-    "main.js": "/Gregory_p/static/js/main.d5d706e8.js",
-    "static/js/453.525b3397.chunk.js": "/Gregory_p/static/js/453.525b3397.chunk.js",
-    "static/media/SF-Pro-Display-Bold.otf": "/Gregory_p/static/media/SF-Pro-Display-Bold.07a7fd83dabf0d1a6353.otf",
-    "static/media/SF-Pro-Text-Medium.otf": "/Gregory_p/static/media/SF-Pro-Text-Medium.2534f5d4ea4aa056834b.otf",
-    "static/media/SF-Pro-Display-Regular.otf": "/Gregory_p/static/media/SF-Pro-Display-Regular.4f28b3e8c88c34243766.otf",
-    "static/media/SF-Pro-Text-Regular.otf": "/Gregory_p/static/media/SF-Pro-Text-Regular.3518edd3ca15a2e7277b.otf",
-    "static/media/EBGaramond-VariableFont_wght.ttf": "/Gregory_p/static/media/EBGaramond-VariableFont_wght.815805779a78df014494.ttf",
-    "static/media/PlayfairDisplay-Bold.ttf": "/Gregory_p/static/media/PlayfairDisplay-Bold.a44ebc27b80d88dc868d.ttf",
-    "static/media/PlayfairDisplay-Regular.ttf": "/Gregory_p/static/media/PlayfairDisplay-Regular.693728812dc43ab34710.ttf",
-    "static/media/slick.svg": "/Gregory_p/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/Gregory_p/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/Gregory_p/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/Gregory_p/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/Gregory_p/index.html",
-    "main.001a4629.css.map": "/Gregory_p/static/css/main.001a4629.css.map",
-    "main.d5d706e8.js.map": "/Gregory_p/static/js/main.d5d706e8.js.map",
-    "453.525b3397.chunk.js.map": "/Gregory_p/static/js/453.525b3397.chunk.js.map"
+    "main.css": "/Gregory_Paek/static/css/main.7c61d7b0.css",
+    "main.js": "/Gregory_Paek/static/js/main.2c328cc6.js",
+    "static/js/453.525b3397.chunk.js": "/Gregory_Paek/static/js/453.525b3397.chunk.js",
+    "static/media/SF-Pro-Display-Bold.otf": "/Gregory_Paek/static/media/SF-Pro-Display-Bold.07a7fd83dabf0d1a6353.otf",
+    "static/media/SF-Pro-Text-Medium.otf": "/Gregory_Paek/static/media/SF-Pro-Text-Medium.2534f5d4ea4aa056834b.otf",
+    "static/media/SF-Pro-Display-Regular.otf": "/Gregory_Paek/static/media/SF-Pro-Display-Regular.4f28b3e8c88c34243766.otf",
+    "static/media/SF-Pro-Text-Regular.otf": "/Gregory_Paek/static/media/SF-Pro-Text-Regular.3518edd3ca15a2e7277b.otf",
+    "static/media/EBGaramond-VariableFont_wght.ttf": "/Gregory_Paek/static/media/EBGaramond-VariableFont_wght.815805779a78df014494.ttf",
+    "static/media/PlayfairDisplay-Bold.ttf": "/Gregory_Paek/static/media/PlayfairDisplay-Bold.a44ebc27b80d88dc868d.ttf",
+    "static/media/PlayfairDisplay-Regular.ttf": "/Gregory_Paek/static/media/PlayfairDisplay-Regular.693728812dc43ab34710.ttf",
+    "static/media/slick.svg": "/Gregory_Paek/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Gregory_Paek/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Gregory_Paek/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Gregory_Paek/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Gregory_Paek/index.html",
+    "main.7c61d7b0.css.map": "/Gregory_Paek/static/css/main.7c61d7b0.css.map",
+    "main.2c328cc6.js.map": "/Gregory_Paek/static/js/main.2c328cc6.js.map",
+    "453.525b3397.chunk.js.map": "/Gregory_Paek/static/js/453.525b3397.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.001a4629.css",
-    "static/js/main.d5d706e8.js"
+    "static/css/main.7c61d7b0.css",
+    "static/js/main.2c328cc6.js"
   ]
 }
