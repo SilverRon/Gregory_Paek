@@ -7,7 +7,6 @@ const AboutContainer = styled.div`
   padding: 50px 20px;
   margin: auto;
   background-color: #111;
-  /* background-color: #e8e8e5; */
 `;
 
 const ProfileContainer = styled.div`
@@ -80,10 +79,10 @@ const AboutSection = () => {
       <hr></hr>
       <ProfileContainer>
         <ProfileText>
-          <h1>{"Hi, I'm Gregory S.H. Paek"}</h1>
+          <h1>Hi, I'm Gregory S.H. Paek</h1>
           <br></br>
           <p style={{ fontSize: " 1.2rem" }}>
-            Hello! I’m<Pi> Gregory Paek</Pi>, an astronomer captivated by the
+            Hello! I’m<Pi>Gregory Paek</Pi>, an astronomer captivated by the
             transient universe and its fleeting phenomena. My work bridges
             advanced observational techniques and computational innovation to
             uncover the secrets of transient, with a special focus on kilonovae,
@@ -106,8 +105,8 @@ const AboutSection = () => {
           <br></br>
           <ResumeButton>
             <a
-              href={`${process.env.PUBLIC_URL}/assets/CV_Gregory_Paek.pdf`}
-              download="CV_Gregory_Paek.pdf"
+              href={`${process.env.PUBLIC_URL}/assets/Resume_gregory_paek.pdf`}
+              download="Resume_gregory_paek.pdf"
             >
               <button>Download CV</button>
             </a>
